@@ -1,0 +1,271 @@
+﻿
+
+/*HEADER*/
+div.page-header{
+    margin-top:0px;
+    background-color:lightslategrey;   
+    text-align:center;
+    padding-top: 50px;
+   
+}
+
+/*NAVBAR*/
+
+.navbar .navbar-nav{
+
+    display:inline-block;
+    float: none;
+
+}
+
+.navbar .navbar-collapse{
+    text-align:center;
+}
+
+
+/*UPPER LEFT IMAGE*/
+
+#first {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    margin-top: 0PX;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+
+#one{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+
+
+}
+
+/*UPPER RIGHT IMAGE*/
+
+#second {
+    background-image: url('../Images/Versilia.jpg');
+    background-size: cover;
+    height: 500px;
+    text-align:center;
+}
+
+#two{
+   border-color:white;
+   background-color:white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+
+}
+
+
+
+
+#third{
+   height:200px;
+   text-align:center;
+}
+
+#three{
+   
+
+}
+
+#fourth {
+   
+    background-image: url('Images/314-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#four{
+   border-color:white;
+   background-color:dimgray;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+
+float: none !important;
+}
+
+#fifth {
+   
+    background-image: url('Images/3b-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#five{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+
+float: none !important;
+}
+#sixth {
+ 
+    background-image: url('Images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#six{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+
+float: none !important;
+}
+
+#seventh {
+   
+    background-image: url('Images/3b-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#seven{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 10px 15px 10px 8px;
+float: none !important;
+
+}
+
+#eighth{
+   height:200px;
+   text-align:center;
+}
+
+#eight{
+
+}
+   
+#ninth {
+   
+    background-image: url('Images/3b-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#nine{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 10px 15px 10px 8px;
+float: none !important;
+
+}
+
+#tenth{
+   height:200px;
+   text-align:center;
+}
+
+#ten{
+
+}
+
+#eleventh{
+   height:200px;
+   text-align:center;
+}
+
+#eleven{
+
+}
+
+#twelfth {
+   
+    background-image: url('Images/3b-348x348.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align:center;
+}
+
+#twelve{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+float: none !important;
+
+}
+
+#thirteenth{
+   height:200px;
+   text-align: center;
+}
+
+#thirteen{
+
+}
+
+#fourteenth {
+   
+    background-image: url('Images/box_partners.png');
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+}
+
+#fourteen{
+   border-color:white;
+   background-color: white;
+   opacity: 0.8;
+   filter:alpha(opacity=60);
+   
+display: block;
+margin: 100px 150px 100px 80px;
+float: none !important;
+
+}
+
+
+div.panel-body{
+    margin-top:0px;
+    background-color:lightslategrey;   
+    text-align:center;
+    padding-top: 50px;
+   
+}
+
+div.panel-footer{
+    margin-top:0px;
+    background-color:lightslategrey;   
+    text-align:center;
+    padding-top: 50px;
+   
+}
